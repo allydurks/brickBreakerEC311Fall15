@@ -1,0 +1,63 @@
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "SevenSegmentController.ngc" SevenSegmentController.ngd  
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "SevenSegmentController.ngc" SevenSegmentController.ngd  
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "SevenSegmentController.ngc" SevenSegmentController.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SevenSegmentController_map.ncd SevenSegmentController.ngd SevenSegmentController.pcf 
+par -w -intstyle ise -ol high -mt off SevenSegmentController_map.ncd SevenSegmentController.ncd SevenSegmentController.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SevenSegmentController.twx SevenSegmentController.ncd -o SevenSegmentController.twr SevenSegmentController.pcf -ucf binary_to_segment.ucf 
+bitgen -intstyle ise -f SevenSegmentController.ut SevenSegmentController.ncd 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "SevenSegmentController.ngc" SevenSegmentController.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SevenSegmentController_map.ncd SevenSegmentController.ngd SevenSegmentController.pcf 
+par -w -intstyle ise -ol high -mt off SevenSegmentController_map.ncd SevenSegmentController.ncd SevenSegmentController.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SevenSegmentController.twx SevenSegmentController.ncd -o SevenSegmentController.twr SevenSegmentController.pcf -ucf binary_to_segment.ucf 
+bitgen -intstyle ise -f SevenSegmentController.ut SevenSegmentController.ncd 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "SevenSegmentController.ngc" SevenSegmentController.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SevenSegmentController_map.ncd SevenSegmentController.ngd SevenSegmentController.pcf 
+par -w -intstyle ise -ol high -mt off SevenSegmentController_map.ncd SevenSegmentController.ncd SevenSegmentController.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SevenSegmentController.twx SevenSegmentController.ncd -o SevenSegmentController.twr SevenSegmentController.pcf -ucf binary_to_segment.ucf 
+bitgen -intstyle ise -f SevenSegmentController.ut SevenSegmentController.ncd 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "SevenSegmentController.ngc" SevenSegmentController.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SevenSegmentController_map.ncd SevenSegmentController.ngd SevenSegmentController.pcf 
+par -w -intstyle ise -ol high -mt off SevenSegmentController_map.ncd SevenSegmentController.ncd SevenSegmentController.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SevenSegmentController.twx SevenSegmentController.ncd -o SevenSegmentController.twr SevenSegmentController.pcf -ucf binary_to_segment.ucf 
+bitgen -intstyle ise -f SevenSegmentController.ut SevenSegmentController.ncd 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "SevenSegmentController.ngc" SevenSegmentController.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SevenSegmentController_map.ncd SevenSegmentController.ngd SevenSegmentController.pcf 
+par -w -intstyle ise -ol high -mt off SevenSegmentController_map.ncd SevenSegmentController.ncd SevenSegmentController.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SevenSegmentController.twx SevenSegmentController.ncd -o SevenSegmentController.twr SevenSegmentController.pcf -ucf binary_to_segment.ucf 
+bitgen -intstyle ise -f SevenSegmentController.ut SevenSegmentController.ncd 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "SevenSegmentController.ngc" SevenSegmentController.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SevenSegmentController_map.ncd SevenSegmentController.ngd SevenSegmentController.pcf 
+par -w -intstyle ise -ol high -mt off SevenSegmentController_map.ncd SevenSegmentController.ncd SevenSegmentController.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SevenSegmentController.twx SevenSegmentController.ncd -o SevenSegmentController.twr SevenSegmentController.pcf -ucf binary_to_segment.ucf 
+bitgen -intstyle ise -f SevenSegmentController.ut SevenSegmentController.ncd 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "SevenSegmentController.ngc" SevenSegmentController.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SevenSegmentController_map.ncd SevenSegmentController.ngd SevenSegmentController.pcf 
+par -w -intstyle ise -ol high -mt off SevenSegmentController_map.ncd SevenSegmentController.ncd SevenSegmentController.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SevenSegmentController.twx SevenSegmentController.ncd -o SevenSegmentController.twr SevenSegmentController.pcf -ucf binary_to_segment.ucf 
+bitgen -intstyle ise -f SevenSegmentController.ut SevenSegmentController.ncd 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/SevenSegmentController.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "SevenSegmentController.ngc" SevenSegmentController.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o SevenSegmentController_map.ncd SevenSegmentController.ngd SevenSegmentController.pcf 
+par -w -intstyle ise -ol high -mt off SevenSegmentController_map.ncd SevenSegmentController.ncd SevenSegmentController.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml SevenSegmentController.twx SevenSegmentController.ncd -o SevenSegmentController.twr SevenSegmentController.pcf -ucf binary_to_segment.ucf 
+bitgen -intstyle ise -f SevenSegmentController.ut SevenSegmentController.ncd 

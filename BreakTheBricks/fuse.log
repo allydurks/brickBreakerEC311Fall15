@@ -1,0 +1,21 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "X:/My Documents/EC311/BreakTheBricks/BreakTheBricks/test_ball_isim_beh.exe" -prj "X:/My Documents/EC311/BreakTheBricks/BreakTheBricks/test_ball_beh.prj" "work.test_ball" "work.glbl" 
+ISim P.28xd (signature 0xa0883be4)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "X:/My Documents/EC311/BreakTheBricks/BreakTheBricks/vga_controller_640_60.v" into library work
+Analyzing Verilog file "X:/My Documents/EC311/BreakTheBricks/BreakTheBricks/vga_display_movement.v" into library work
+Analyzing Verilog file "X:/My Documents/EC311/BreakTheBricks/BreakTheBricks/test_ball.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module vga_controller_640_60
+Compiling module vga_display
+Compiling module test_ball
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 4 Verilog Units
+Built simulation executable X:/My Documents/EC311/BreakTheBricks/BreakTheBricks/test_ball_isim_beh.exe
+Fuse Memory Usage: 28860 KB
+Fuse CPU Usage: 483 ms

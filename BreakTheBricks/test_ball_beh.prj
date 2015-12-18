@@ -1,0 +1,4 @@
+verilog work "vga_controller_640_60.v"
+verilog work "vga_display_movement.v"
+verilog work "test_ball.v"
+verilog work "C:/Xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v"

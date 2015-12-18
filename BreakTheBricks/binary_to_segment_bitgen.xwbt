@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=X:\Desktop\EC311 Labs\BreakTheBricks\binary_to_segment.ncd
+OUTFILE=X:\Desktop\EC311 Labs\BreakTheBricks\binary_to_segment.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=X:\Desktop\EC311 Labs\BreakTheBricks
+LICENSE=ISE
+USER_INFO=174135685_174135686_210617260_121

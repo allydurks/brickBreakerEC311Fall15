@@ -1,0 +1,6 @@
+verilog work "seven_alternate.v"
+verilog work "CloclDivider.v"
+verilog work "bin2led7.v"
+verilog work "vga_controller_640_60.v"
+verilog work "SevenSegmentController.v"
+verilog work "vga_display_movement.v"

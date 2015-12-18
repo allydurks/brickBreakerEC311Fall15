@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# PlanAhead v14.2 (64-bit)
+# Build 194362 by xbuild on Fri Jul 20 18:52:11 MDT 2012
+# Start of session at: Mon Dec 07 14:44:50 2015
+# Process ID: 61544
+# Log file: X:/Desktop/EC311 Labs/BreakTheBricks/planAhead_run_3/planAhead.log
+# Journal file: X:/Desktop/EC311 Labs/BreakTheBricks/planAhead_run_3/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source {X:/Desktop/EC311 Labs/BreakTheBricks/pa.fromNetlist.tcl}

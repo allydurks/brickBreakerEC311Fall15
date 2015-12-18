@@ -1,0 +1,4 @@
+verilog work "../johanos_lab3/clock_divider_4.v"
+verilog work "seven_alternate.v"
+verilog work "bin2led7.v"
+verilog work "SevenSegmentController.v"

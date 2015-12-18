@@ -1,0 +1,21 @@
+
+
+NET "seven[3]" LOC = U18;
+NET "seven[5]" LOC = T18;
+NET "seven[6]" LOC = T17;
+NET "seven[4]" LOC = U17;
+NET "seven[2]" LOC = M14;
+NET "seven[1]" LOC = N14;
+
+
+NET "clk" LOC = V10;
+
+
+NET "seven[0]" LOC = L14;
+
+# PlanAhead Generated physical constraints 
+
+NET "AN[3]" LOC = P17;
+NET "AN[2]" LOC = P18;
+NET "AN[1]" LOC = N15;
+NET "AN[0]" LOC = N16;

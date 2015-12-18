@@ -1,0 +1,42 @@
+//! **************************************************************************
+// Written by: Map P.28xd on Wed Dec 16 17:34:01 2015
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "HS" LOCATE = SITE "N6" LEVEL 1;
+COMP "VS" LOCATE = SITE "P7" LEVEL 1;
+COMP "up" LOCATE = SITE "A8" LEVEL 1;
+COMP "clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "rst" LOCATE = SITE "B8" LEVEL 1;
+COMP "B<0>" LOCATE = SITE "R7" LEVEL 1;
+COMP "B<1>" LOCATE = SITE "T7" LEVEL 1;
+COMP "G<0>" LOCATE = SITE "P8" LEVEL 1;
+COMP "G<1>" LOCATE = SITE "T6" LEVEL 1;
+COMP "G<2>" LOCATE = SITE "V6" LEVEL 1;
+COMP "R<0>" LOCATE = SITE "U7" LEVEL 1;
+COMP "R<1>" LOCATE = SITE "V7" LEVEL 1;
+COMP "R<2>" LOCATE = SITE "N7" LEVEL 1;
+COMP "left" LOCATE = SITE "C4" LEVEL 1;
+COMP "down" LOCATE = SITE "C9" LEVEL 1;
+COMP "AN<0>" LOCATE = SITE "N16" LEVEL 1;
+COMP "AN<1>" LOCATE = SITE "N15" LEVEL 1;
+COMP "AN<2>" LOCATE = SITE "P18" LEVEL 1;
+COMP "AN<3>" LOCATE = SITE "P17" LEVEL 1;
+COMP "R_control<0>" LOCATE = SITE "U8" LEVEL 1;
+COMP "R_control<1>" LOCATE = SITE "V8" LEVEL 1;
+COMP "R_control<2>" LOCATE = SITE "T5" LEVEL 1;
+COMP "right" LOCATE = SITE "D9" LEVEL 1;
+COMP "seven<0>" LOCATE = SITE "L14" LEVEL 1;
+COMP "seven<1>" LOCATE = SITE "N14" LEVEL 1;
+COMP "seven<2>" LOCATE = SITE "M14" LEVEL 1;
+COMP "seven<3>" LOCATE = SITE "U18" LEVEL 1;
+COMP "seven<4>" LOCATE = SITE "U17" LEVEL 1;
+COMP "seven<5>" LOCATE = SITE "T18" LEVEL 1;
+COMP "seven<6>" LOCATE = SITE "T17" LEVEL 1;
+COMP "B_control<0>" LOCATE = SITE "T10" LEVEL 1;
+COMP "B_control<1>" LOCATE = SITE "T9" LEVEL 1;
+COMP "G_control<0>" LOCATE = SITE "V9" LEVEL 1;
+COMP "G_control<1>" LOCATE = SITE "M8" LEVEL 1;
+COMP "G_control<2>" LOCATE = SITE "N8" LEVEL 1;
+SCHEMATIC END;
+

@@ -1,0 +1,18 @@
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/binary_to_segment.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/binary_to_segment.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/binary_to_segment.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/binary_to_segment.syr" 
+xst -intstyle ise -ifn "X:/Desktop/EC311 Labs/BreakTheBricks/binary_to_segment.xst" -ofn "X:/Desktop/EC311 Labs/BreakTheBricks/binary_to_segment.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "binary_to_segment.ngc" binary_to_segment.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o binary_to_segment_map.ncd binary_to_segment.ngd binary_to_segment.pcf 
+par -w -intstyle ise -ol high -mt off binary_to_segment_map.ncd binary_to_segment.ncd binary_to_segment.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml binary_to_segment.twx binary_to_segment.ncd -o binary_to_segment.twr binary_to_segment.pcf -ucf binary_to_segment.ucf 
+bitgen -intstyle ise -f binary_to_segment.ut binary_to_segment.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "binary_to_segment.ngc" binary_to_segment.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o binary_to_segment_map.ncd binary_to_segment.ngd binary_to_segment.pcf 
+par -w -intstyle ise -ol high -mt off binary_to_segment_map.ncd binary_to_segment.ncd binary_to_segment.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml binary_to_segment.twx binary_to_segment.ncd -o binary_to_segment.twr binary_to_segment.pcf -ucf binary_to_segment.ucf 
+bitgen -intstyle ise -f binary_to_segment.ut binary_to_segment.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc binary_to_segment.ucf -p xc6slx16-csg324-3 "binary_to_segment.ngc" binary_to_segment.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o binary_to_segment_map.ncd binary_to_segment.ngd binary_to_segment.pcf 
+par -w -intstyle ise -ol high -mt off binary_to_segment_map.ncd binary_to_segment.ncd binary_to_segment.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml binary_to_segment.twx binary_to_segment.ncd -o binary_to_segment.twr binary_to_segment.pcf -ucf binary_to_segment.ucf 
+bitgen -intstyle ise -f binary_to_segment.ut binary_to_segment.ncd 

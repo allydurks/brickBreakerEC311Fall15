@@ -1,0 +1,39 @@
+ISim log file
+Running: X:\My Documents\EC311\BreakTheBricks\BreakTheBricks\test_ball_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb X:/My Documents/EC311/BreakTheBricks/BreakTheBricks/test_ball_isim_beh.wdb 
+ISim P.28xd (signature 0xa0883be4)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.28xd (signature 0xa0883be4)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.28xd (signature 0xa0883be4)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.28xd (signature 0xa0883be4)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.28xd (signature 0xa0883be4)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# step
+Stopped at time : 1001 ns : File "//ad/eng/users/j/g/jguerero/My Documents/EC311/BreakTheBricks/BreakTheBricks/test_ball.v" Line 82
+# run 1.00ms
+# run 1.00ms
+ISim P.28xd (signature 0xa0883be4)
+This is a Full version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

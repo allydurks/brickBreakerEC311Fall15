@@ -1,0 +1,21 @@
+Release 14.2 Drc P.28xd (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+Wed Dec 16 17:35:04 2015
+
+drc -z vga_display.ncd vga_display.pcf
+
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   ballNow[2]_GND_11_o_Mux_102_o is sourced by a combinatorial pin. This is not
+   good design practice. Use the CE pin to control the loading of data into the
+   flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   Mram_ballNow[2]_GND_8_o_Mux_99_o is sourced by a combinatorial pin. This is
+   not good design practice. Use the CE pin to control the loading of data into
+   the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   sev/divider/GND_3_o_GND_3_o_equal_4_o is sourced by a combinatorial pin. This
+   is not good design practice. Use the CE pin to control the loading of data
+   into the flip-flop.
+DRC detected 0 errors and 3 warnings.  Please see the previously displayed
+individual error or warning messages for more details.

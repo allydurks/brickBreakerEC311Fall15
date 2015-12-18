@@ -1,0 +1,19 @@
+//! **************************************************************************
+// Written by: Map P.28xd on Sun Dec 06 14:23:03 2015
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "bin<0>" LOCATE = SITE "T10" LEVEL 1;
+COMP "bin<1>" LOCATE = SITE "T9" LEVEL 1;
+COMP "bin<2>" LOCATE = SITE "V9" LEVEL 1;
+COMP "bin<3>" LOCATE = SITE "M8" LEVEL 1;
+COMP "seven<0>" LOCATE = SITE "L14" LEVEL 1;
+COMP "seven<1>" LOCATE = SITE "N14" LEVEL 1;
+COMP "seven<2>" LOCATE = SITE "M14" LEVEL 1;
+COMP "seven<3>" LOCATE = SITE "U18" LEVEL 1;
+COMP "seven<4>" LOCATE = SITE "U17" LEVEL 1;
+COMP "seven<5>" LOCATE = SITE "T18" LEVEL 1;
+COMP "seven<6>" LOCATE = SITE "T17" LEVEL 1;
+SCHEMATIC END;
+
